@@ -1,0 +1,45 @@
+C:\Users\is22-11\Desktop\SqrtMath\bin\Debug\net8.0\SqrtMath.exe
+C:\Users\is22-11\Desktop\SqrtMath\bin\Debug\net8.0\SqrtMath.deps.json
+C:\Users\is22-11\Desktop\SqrtMath\bin\Debug\net8.0\SqrtMath.runtimeconfig.json
+C:\Users\is22-11\Desktop\SqrtMath\bin\Debug\net8.0\SqrtMath.dll
+C:\Users\is22-11\Desktop\SqrtMath\bin\Debug\net8.0\SqrtMath.pdb
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.AssemblyInfoInputs.cache
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.AssemblyInfo.cs
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.csproj.CoreCompileInputs.cache
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.dll
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\refint\SqrtMath.dll
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.pdb
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.genruntimeconfig.cache
+C:\Users\is22-11\Desktop\SqrtMath\obj\Debug\net8.0\ref\SqrtMath.dll
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\bin\Debug\net8.0\SqrtMath.exe
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\bin\Debug\net8.0\SqrtMath.deps.json
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\bin\Debug\net8.0\SqrtMath.runtimeconfig.json
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\bin\Debug\net8.0\SqrtMath.dll
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\bin\Debug\net8.0\SqrtMath.pdb
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.AssemblyInfoInputs.cache
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.AssemblyInfo.cs
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.csproj.CoreCompileInputs.cache
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.sourcelink.json
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.dll
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\refint\SqrtMath.dll
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.pdb
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\SqrtMath.genruntimeconfig.cache
+C:\Users\maxx5\OneDrive\Рабочий стол\SqrtMath\obj\Debug\net8.0\ref\SqrtMath.dll
+C:\Users\IS22-11\Desktop\SqrtMath\obj\Debug\net8.0\SqrtMath.sourcelink.json
+C:\Users\is22-11\Source\Repos\SqrtMath\bin\Debug\net8.0\SqrtMath.exe
+C:\Users\is22-11\Source\Repos\SqrtMath\bin\Debug\net8.0\SqrtMath.deps.json
+C:\Users\is22-11\Source\Repos\SqrtMath\bin\Debug\net8.0\SqrtMath.runtimeconfig.json
+C:\Users\is22-11\Source\Repos\SqrtMath\bin\Debug\net8.0\SqrtMath.dll
+C:\Users\is22-11\Source\Repos\SqrtMath\bin\Debug\net8.0\SqrtMath.pdb
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.AssemblyInfoInputs.cache
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.AssemblyInfo.cs
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.csproj.CoreCompileInputs.cache
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.sourcelink.json
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.dll
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\refint\SqrtMath.dll
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.pdb
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\SqrtMath.genruntimeconfig.cache
+C:\Users\is22-11\Source\Repos\SqrtMath\obj\Debug\net8.0\ref\SqrtMath.dll
